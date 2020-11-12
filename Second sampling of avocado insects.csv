@@ -1,0 +1,130 @@
+LAT,LONG,NDVI,FARM ,ORDER,FAMILY,SUB-FAMILY,GENUS,SPECIES,NUMBER OF COLLECTED SPECIMEN
+-0.88929,37.12788,High,Plot 1,Hymenoptera,Apidae,,Apis,mellifera,18
+,,,,Diptera,Calliphoridae,,,,2
+-0.897265,36.925937,High,Plot 2,Hymenoptera,Apidae,,Apis,mellifera,27
+,,,,Diptera,Syrphidae,,Eristalinus,incica,2
+,,,,Diptera,Syrphidae,,Phytomia,incica,1
+,,,,Diptera,Syrphidae,,,,2
+-0.919852,36.951617,High,Plot 3,Hymenoptera,Apidae,,Apis,mellifera,28
+,,,,Diptera,Syrphidae,,Eristalinus,incica,6
+-0.874157,36.845132,High,Plot 4,Hymenoptera,Apidae,,Apis,mellifera,17
+-0.84831,36.85001,High,Plot 5,Diptera,Calliphoridae,,,,1
+-0.843416,36.798482,High,Plot 6,Hymenoptera,Apidae,,Apis,mellifera,12
+,,,,Diptera,Syrphidae,,Eristalinus,incica,1
+,,,,Diptera,Calliphoridae,,,,4
+-0.915454,36.962968,High,Plot7,Hymenoptera,Apidae,,Apis,mellifera,9
+,,,,Diptera,Calliphoridae,,,,2
+,,,,Hymenoptera,Vespidae,polistinae,Belanogaster,,1
+-0.925462,36.986392,High,Plot 8,Hymenoptera,Apidae,,Apis,mellifera,3
+,,,,Hymenoptera,Vespidae,polistinae,Belanogaster,griseus,1
+,,,,Diptera,Calliphoridae,,,,1
+-0.957398,37.045598,High,Plot 9,Hymenoptera,Vespidae,Eumeninae,,,1
+,,,,Diptera,Syrphidae,,Ischiodon,aegyptius,1
+-0.94849,37.02656,High,Plot 10,Hymenoptera,Apidae,,Apis,mellifera,5
+,,,,Hymenoptera,Vespidae,polistinae,Belanogaster,,2
+,,,,Diptera,Calliphoridae,,,,4
+-0.945982,37.01625,High,Plot 11,Hymenoptera,Apidae,,Apis,mellifera,19
+,,,,Diptera,Syrphidae,,Eristalinus,,2
+,,,,Hymenoptera,Vespidae,Eumeninae,,,1
+,,,,Diptera,Syrphidae,,Phytomia,incisa,1
+,,,,Diptera,Syrphidae,,Eristalinus,,1
+,,,,Diptera,Calliphoridae,,,,1
+-0.945982,37.01625,High,Plot 12,Diptera,Syrphidae,,Ischiodon,aegyptius,1
+-0.919971,37.001181,,Plot 13,Hymenoptera,Apidae,,Apis,mellifera,17
+,,,,Diptera,Syrphidae,,Eristalinus,,3
+,,,,Diptera,Syrphidae,,Allograpta,nasuta,1
+-0.909922,37.035024,High,Plot 14,Hymenoptera,Apidae,,Apis,mellifera,6
+,,,,Diptera,Calliphoridae,,,,4
+,,,,Diptera,Syrphidae,,Asarkina,ericetorum,1
+-0.863976,36.992566,High,Plot 15,Hymenoptera,Apidae,,Apis,mellifera,22
+,,,,Diptera,Syrphidae,,,,2
+,,,,Diptera,Calliphoridae,,,,2
+0.90604,36.99485,High,Plot 16,Hymenoptera,Apidae,,Apis,mellifera,14
+,,,,Diptera,Syrphidae,,Asarkina,ericetorum,1
+,,,,Diptera,Rhiniidae,,,,1
+,,,,Diptera,Syrphidae,,,,2
+-0.794822,37.049674,Medium,Plot 17,Hymenoptera,Apidae,,Apis,mellifera,21
+,,,,Diptera,Syrphidae,,Eristalinus,,1
+,,,,Diptera,Calliphoridae,,,,1
+,,,,Diptera,Syrphidae,,melanostoma,scalare,1
+-0.789193,37.058922,Medium,Plot 18,Hymenoptera,Apidae,,Apis,mellifera,17
+,,,,Diptera,Syrphidae,,Eristalinus,,1
+-0.805329,37.072485,Medium,Plot 19,Hymenoptera,Apidae,,Apis,mellifera,10
+,,,,Diptera,Syrphidae,,Eristalinus,,1
+,,,,Diptera,Syrphidae,,Allograpta,,2
+,,,,Diptera,Calliphoridae,,,,3
+,,,,Diptera,Rhiniidae,,,,1
+-0.800258,37.055002,Medium,Plot 20,Hymenoptera,Apidae,,Apis,mellifera,9
+,,,,Diptera,Calliphoridae,,,,1
+,,,,Diptera,Syrphidae,,Allograpta,nasuta,1
+-0.814343,37.079792,Medium,plot 21,Hymenoptera,Apidae,,Apis,mellifera,45
+,,,,Diptera,Syrphidae,,Eristalinus,,1
+-0.807271,37.057542,Medium,Plot 22,Hymenoptera,Apidae,,Apis,mellifera,10
+,,,,Diptera,Syrphidae,,Eristalinus,,2
+,,,,Diptera,Calliphoridae,,,,6
+,,,,Diptera,Rhiniidae,,,,1
+0.22922,34.96019,Medium,Plot 23,Hymenoptera,Apidae,,Apis,mellifera,24
+,,,,Hymenoptera,Vespidae,Eumeninae,,,1
+0.80847,37.10564,Medium,Plot 24,Hymenoptera,Apidae,,Apis,mellifera,7
+,,,,Hymenoptera,Vespidae,Eumeninae,,,1
+,,,,Hymenoptera,Mutillidae,,,,1
+,,,,Diptera,Syrphidae,,Phytomia,incisa,1
+,,,,Diptera,Syrphidae,,Allograpta,nasuta,2
+,,,,Diptera,Calliphoridae,,,,2
+,,,,Diptera,Bombylildae,,,,1
+0.89758,37.07444,Medium,Plot 25,Hymenoptera,Apidae,,Apis,mellifera,18
+,,,,Diptera,Rhiniidae,,,,1
+,,,,Diptera,Syrphidae,,Paragus,borbonicus,1
+,,,,Diptera,Muscidae,,Stomoxys,,1
+0.89443,37.08078,Medium,Plot 26,Hymenoptera,Apidae,,Apis,mellifera,14
+,,,,Hymenoptera,Vespidae,polistinae,Belanogaster,,1
+,,,,Diptera,Calliphoridae,,,,3
+,,,,Diptera,Syrphidae,,,,1
+0.89956,37.09274,Medium,Plot 27,Hymenoptera,Apidae,,Apis,mellifera,20
+,,,,Diptera,Calliphoridae,,,,1
+,,,,Diptera,Muscidae,,Musca,,1
+0.89998,37.08818,Medium,Plot 28,Diptera,Bombyliidae,,Petrorossia,tropicalis,1
+0.88796,37.14084,Medium,Plot 29,Hymenoptera,Apidae,,Apis,mellifera,13
+,,,,Diptera,Syrphidae,,Eristalinus,,2
+,,,,Diptera,Calliphoridae,,,,1
+,,,,Hymenoptera,Philanthidae,,Philanthinae,Philanthus,2
+,,,,Diptera,Rhiniidae,,,,1
+,,,,Diptera,Syrphidae,,,,1
+,,,,Diptera,Sarcophagidae,,,,1
+0.89615,37.26271,Low,Plot 30,Hymenoptera,Apidae,,Apis,mellifera,36
+,,,,Diptera,Calliphoridae,,,,7
+,,,,Diptera,Syrphidae,,Phytomia,incisa,1
+,,,,Diptera,Syrphidae,,Allograpta,nasuta,1
+,,,,Diptera,Rhiniidae,,,,1
+,,,,Diptera,Syrphidae,,,,1
+0.95682,37.2831,Low,Plot 31,Hymenoptera,Apidae,,Apis,mellifera,14
+,,,,Diptera,Syrphidae,,Eristalinus,,1
+,,,,Diptera,Calliphoridae,,,,1
+,,,,Hymenoptera,Scoliidae,,,,1
+0.84711,37.22001,Low,Plot 32,Hymenoptera,Apidae,,Apis,mellifera,4
+,,,,Diptera,Calliphoridae,,,,3
+0.85894,37.21164,Low,Plot 33,Diptera,Syrphidae,,Allograpta,nasuta,1
+,,,,Diptera,Calliphoridae,,,,3
+,,,,Diptera,Syrphidae,,,,1
+0.86618,37.21343,Low,Plot 34,Hymenoptera,Apidae,,Apis,mellifera,4
+,,,,Diptera,Calliphoridae,,,,6
+0.87718,37.21794,Low,Plot 35,Hymenoptera,Apidae,,Apis,mellifera,6
+,,,,Diptera,Calliphoridae,,,,4
+,,,,Diptera,Syrphidae,,Allograpta,nasuta,1
+,,,,Diptera,Rhiniidae,,,,1
+,,,,Diptera,Bombylildae,,,,1
+,,,,Diptera,Syrphidae,,,,1
+0.89923,37.18049,Low,Plot 36,Hymenoptera,Apidae,,Apis,mellifera,7
+,,,,Diptera,Syrphidae,,Eristalinus,,1
+,,,,Diptera,Syrphidae,,Allograpta,nasuta,1
+,,,,Diptera,Syrphidae,,,,3
+0.92322,37.15366,Low,Plot 37,Hymenoptera,Apidae,,Apis,mellifera,11
+0.91195,37.16023,Low,Plot 38,Hymenoptera,Apidae,,Apis,mellifera,10
+0.8575,37.12745,Medium,Plot 39,Diptera,Syrphidae,,Episerphus,trisectus,1
+,,,,Diptera,Syrphidae,,,,3
+,,,,Diptera,Calliphoridae,,,,1
+0.8334,37.10965,Medium,Plot 40,Hymenoptera,Apidae,,Apis,mellifera,4
+0.80817,37.09169,Medium,Plot 41,Hymenoptera,Apidae,,Apis,mellifera,5
+,,,,Hymenoptera,Apidae,,Xylocopa,scioensis,1
+,,,,Diptera,Calliphoridae,,,,1
+,,,,,,,,,661
