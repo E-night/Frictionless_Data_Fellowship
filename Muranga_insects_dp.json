@@ -1,0 +1,87 @@
+{
+  "profile": "tabular-data-package",
+  "resources": [
+    {
+      "name": "insect-counts-from-avocado-farms",
+      "path": "insect counts from avocado farms",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "LATITUDE",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "LONGITUDE",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "NDVI",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "FARM ",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "ORDER",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "FAMILY",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "SUB-FAMILY",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "GENUS",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "SPECIES",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "NUMBER OF COLLECTED SPECIMEN",
+            "type": "integer",
+            "format": "default"
+          }
+        ]
+      },
+      "title": "insect counts from avocado farms"
+    }
+  ],
+  "keywords": [
+    "counts",
+    "order",
+    "family",
+    "smallholder"
+  ],
+  "name": "insect-counts-from-avocado-farms",
+  "title": "insect counts from avocado farms",
+  "description": "Includes all insects in their orders and families,that were collected from the avocado production systems of Murang'a in Central Kenya",
+  "contributors": [
+    {
+      "title": "Evelyn Night Okello",
+      "role": "author"
+    }
+  ],
+  "licenses": [
+    {
+      "name": "CC-BY-SA-4.0",
+      "title": "Creative Commons Attribution Share-Alike 4.0",
+      "path": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+  ]
+}
