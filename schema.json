@@ -1,11 +1,4 @@
-{
-  "profile": "tabular-data-package",
-  "resources": [
-    {
-      "name": "kenya-tz-insects",
-      "path": "https://raw.githubusercontent.com/E-night/Frictionless_Data_Fellowship/master/Kenya%20and%20Tanzania%20insects.csv",
-      "profile": "tabular-data-resource",
-      "schema": {
+ "schema": {
         "fields": [
           {
             "name": "Site",
@@ -50,11 +43,4 @@
         ]
       }
     }
-  ],
-  "keywords": [
-    "Pollinators",
-    "Insect orders"
-  ],
-  "title": "kenya-tz insects",
-  "description": "These are some of the samples collected in east africa"
-}
+  
