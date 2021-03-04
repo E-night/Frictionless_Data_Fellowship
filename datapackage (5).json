@@ -1,0 +1,87 @@
+{
+  "profile": "tabular-data-package",
+  "resources": [
+    {
+      "name": "resource1",
+      "path": "https://raw.githubusercontent.com/E-night/Frictionless_Data_Fellowship/master/Kenya%20and%20Tanzania%20insects.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "Site",
+            "type": "string",
+            "format": "default",
+            "title": "Site",
+            "description": "Individual farms from where sampling was conducted"
+          },
+          {
+            "name": "Coleoptera ",
+            "type": "integer",
+            "format": "default",
+            "title": "Coleoptera",
+            "description": "This column documents the beetles"
+          },
+          {
+            "name": "Diptera",
+            "type": "integer",
+            "format": "default",
+            "title": "Diptera",
+            "description": "This column documents fly samples"
+          },
+          {
+            "name": "Heteroptera",
+            "type": "integer",
+            "format": "default",
+            "title": "Heteroptera",
+            "description": "This column describes the sampled bugs"
+          },
+          {
+            "name": "Hymenoptera",
+            "type": "integer",
+            "format": "default",
+            "title": "Hymenoptera",
+            "description": "This column documents all bees, wasps and ants"
+          },
+          {
+            "name": "Lepidoptera",
+            "type": "integer",
+            "format": "default",
+            "title": "Lepidoptera",
+            "description": "This column documents all the butterflies sampled"
+          },
+          {
+            "name": "Others ",
+            "type": "integer",
+            "format": "default",
+            "title": "Others",
+            "description": "This column documents all other insects that were collected in very low numbers and do not belong to the first 5 groups across the two countries"
+          },
+          {
+            "name": "Totals",
+            "type": "integer",
+            "format": "default",
+            "title": "Totals",
+            "description": "Represents the sums of insects collected per site"
+          }
+        ]
+      },
+      "encoding": "UTF-8"
+    }
+  ],
+  "keywords": [
+    "Pollination",
+    "Morphological features",
+    "Insect orders",
+    "Kenya"
+  ],
+  "title": "East African insects",
+  "description": "This is only a subset of the data published at https://link.springer.com/epdf/10.1007/s42690-021-00463-1?sharing_token=P9TzGz_aOq6mpHTyMHYOlfe4RwlQNchNByi7wbcMAY58bGpDCQR7mW2v68EIq77trK3qCBG6o3W9k27HZL3mh99mz9cUcNetOCA4hyiJPeHMPi2y4LzPy5Eq2PNvRVX6WO-dNzCszM50ygAvF2BQqRV3zgsEeRQImNYoUERsgkI%3D ",
+  "homepage": "https://github.com/E-night/Frictionless_Data_Fellowship",
+  "version": "1.0",
+  "contributors": [
+    {
+      "title": "Evelyn Night",
+      "role": "author"
+    }
+  ]
+}
